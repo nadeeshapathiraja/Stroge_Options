@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StrogeOption1</string>
+    <string name="app_title">Personal Data</string>
+    <string name="notes">My Notes</string>
+    <string name="expense">My Expenses</string>
+    <string name="tasks">My Tasks</string>
+    <string name="my_profile">My Profile</string>
+</resources>
