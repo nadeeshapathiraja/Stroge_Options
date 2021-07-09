@@ -20,7 +20,7 @@ public class ViewNoteActivity extends AppCompatActivity {
     @Override
     protected void onResume() {
         super.onResume();
-        TextView tvNote = findViewById(R.id.tv_note);
+        TextView tvNote = findViewById(R.id.noteText);
 
         Intent intent = getIntent();
         Bundle bundel = intent.getExtras();

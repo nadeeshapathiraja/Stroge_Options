@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">StrogeOption1</string>
-    <string name="app_title">Personal Data</string>
-    <string name="notes">My Notes</string>
-    <string name="expense">My Expenses</string>
-    <string name="tasks">My Tasks</string>
-    <string name="my_profile">My Profile</string>
+    <string name="app_title">Stroge Options</string>
+    <string name="notes">Internal Storage</string>
+    <string name="expense">Network Connection</string>
+    <string name="tasks">SQLite Databases</string>
+    <string name="my_profile">Shared Preferences</string>
 </resources>

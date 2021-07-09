@@ -14,42 +14,7 @@
         android:textColor="@color/white"
         android:gravity="center">
     </TextView>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="0sp"
-        android:layout_weight="1"
-        android:textColor="@color/white"
-        android:background="@color/design_default_color_surface"
-        android:text="@string/notes"
-        android:textSize="25sp"
-        android:layout_margin="10sp"
-        android:onClick="notes"
-        >
-    </Button>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="0sp"
-        android:layout_weight="1"
-        android:textColor="@color/white"
-        android:background="@color/design_default_color_surface"
-        android:text="@string/expense"
-        android:textSize="25sp"
-        android:layout_margin="10sp"
-        android:onClick="expense"
-        >
-    </Button>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="0sp"
-        android:layout_weight="1"
-        android:textColor="@color/white"
-        android:background="@color/design_default_color_surface"
-        android:text="@string/tasks"
-        android:textSize="25sp"
-        android:layout_margin="10sp"
-        android:onClick="task"
-        >
-    </Button>
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="0sp"
@@ -62,5 +27,45 @@
         android:onClick="profile"
         >
     </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:background="@color/design_default_color_surface"
+        android:text="@string/notes"
+        android:textSize="25sp"
+        android:layout_margin="10sp"
+        android:onClick="notes"
+        >
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:background="@color/design_default_color_surface"
+        android:text="@string/tasks"
+        android:textSize="25sp"
+        android:layout_margin="10sp"
+        android:onClick="task"
+        >
+    </Button>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0sp"
+        android:layout_weight="1"
+        android:textColor="@color/white"
+        android:background="@color/design_default_color_surface"
+        android:text="@string/expense"
+        android:textSize="25sp"
+        android:layout_margin="10sp"
+        android:onClick="expense"
+        >
+    </Button>
+
 
 </LinearLayout>
