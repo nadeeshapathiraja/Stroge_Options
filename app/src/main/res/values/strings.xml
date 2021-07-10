@@ -5,4 +5,5 @@
     <string name="expense">Network Connection</string>
     <string name="tasks">SQLite Databases</string>
     <string name="my_profile">Shared Preferences</string>
+    <string name="new_task">Create New Task</string>
 </resources>
