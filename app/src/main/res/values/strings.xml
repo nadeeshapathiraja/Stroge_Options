@@ -6,4 +6,8 @@
     <string name="tasks">SQLite Databases</string>
     <string name="my_profile">Shared Preferences</string>
     <string name="new_task">Create New Task</string>
+    <string name="task_name">Enter Task Name</string>
+    <string name="taskname_hint">Enter Task Name</string>
+    <string name="task_date">Enter Date</string>
+
 </resources>
